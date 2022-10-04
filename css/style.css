@@ -1,0 +1,12 @@
+body {
+	background-color: black;
+}
+
+img {
+	width: 100%;
+}
+
+.page__container {
+	max-width: 1920px;
+	margin: 0 auto;
+}
